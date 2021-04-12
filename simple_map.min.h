@@ -1,4 +1,6 @@
 // @formatter:off
+// Simple Map - https://github.com/mcchatman8009/simple_map
+//
 #ifndef SIMPLE_MAP_SIMPLE_MAP_H
 #define SIMPLE_MAP_SIMPLE_MAP_H
 #include <stdbool.h>
